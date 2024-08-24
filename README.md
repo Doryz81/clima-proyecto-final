@@ -1,15 +1,15 @@
 # CLIMA
-Aplicacion que se desarrolla como proyecto final de grado para el Bootcamp desarrollador web full Satack de Min TIC'S. donde se demuestran la puesta en marcha de alguna parte de los conocimientos adquiridos.
+Aplicación que se desarrolla como proyecto final de grado para el Bootcamp desarrollador web full Stack de Min TIC'S. donde se hace la puesta en marcha de parte de los conocimientos adquiridos.
 
 ## Descripción
-Aplicacion diseñada para la consulta y monitoreo del clima de los diferentes paises del mundo 
+Aplicacion diseñada para la consulta y monitoreo del clima de los diferentes países del mundo 
 
 ## Tecnologias Usadas
--CSS
--Html
--JavaScript
--React
--Github
+- CSS
+- Html
+- JavaScript
+- React
+- Github
 
 ## API usada
 "https://api.openweathermap.org/data/2.5/weather?appid=d57fe0485e8388f349926904c63e6b26&lang=es"
