@@ -1,3 +1,22 @@
+# CLIMA
+Aplicacion que se desarrolla como proyecto final de grado para el Bootcamp desarrollador web full Satack de Min TIC'S. donde se demuestran la puesta en marcha de alguna parte de los conocimientos adquiridos.
+
+## Descripción
+Aplicacion diseñada para la consulta y monitoreo del clima de los diferentes paises del mundo 
+
+## Tecnologias Usadas
+-CSS
+-Html
+-JavaScript
+-React
+-Github
+
+## API usada
+"https://api.openweathermap.org/data/2.5/weather?appid=d57fe0485e8388f349926904c63e6b26&lang=es"
+
+## Plataforma en la que se lanza el proyecto
+Vercel : https://clima-proyecto-final.vercel.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
